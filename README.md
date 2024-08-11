@@ -7,7 +7,7 @@ this is some very basic python code that just asks for a file that has written t
 keylogger:
 this is also some basic code that i managed to wrangle out of the neural network of.. my brain. it is meant to be used i conjunction with the letter ranker, it just saves what you type to a file called key_log.txt, then you use the letter ranker to find out what letter you typed the most is, then you can design your own keyboard. you could also use the genetic keyboard AI to generate a keyboard based entirely off of your logged text.
 
-love:
+love: \n
   -hasabob :D
 
 
